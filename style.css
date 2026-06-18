@@ -68,8 +68,8 @@ nav ul li a:hover{
    HERO
 ========================= */
 .hero-logo {
-    width: 300vw;
-    max-width: auto;
+    width: 40vw;
+    max-width: 500px;
     height: auto;
     display: block;
     margin: 10px auto;
