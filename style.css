@@ -75,6 +75,10 @@ nav ul li a:hover{
 }
 
 .hero{
+    width:100%;
+    margin:0 auto;
+}
+.hero{
     min-height:90vh;
     display:flex;
     flex-direction:column;
@@ -87,9 +91,9 @@ nav ul li a:hover{
 .hero h1{
     font-size:3.5rem;
     color:var(--green);
-    max-width:900px;
-    line-height:1.2;
-    margin-bottom:20px;
+    width:100%;
+    text-align:center;
+    margin:0 auto 20px auto;
 }
 
 /* =========================
